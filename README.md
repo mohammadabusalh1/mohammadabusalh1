@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 I'm a passionate software engineer with **3+ years of experience** building scalable web applications using **React**, **Express.js**, and **AWS**. I specialize in designing **SQL/NoSQL databases**, crafting **RESTful/GraphQL APIs**, and leading development teams to deliver high-performance solutions. My focus is on implementing best practices, optimizing performance, and automating processes to streamline development.
 
-- 🌟 Currently working on: A lot of projects: from my job (2), freelance work (1), and personal projects (2).
+- 🌟 Currently working on: 2 work projects, 1 freelance project, and 2 personal projects.
 - 📚 **Learning**: LLM 
 - 🤝 **Open to collaboration**: I am open to help anyone.
 - 💬 **Ask me about**: React, Express.js, Java, HTML, CSS, UX/UI, Flutter.
