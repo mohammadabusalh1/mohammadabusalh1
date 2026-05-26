@@ -10,10 +10,10 @@
 ## 🚀 About Me  
 I'm a passionate software engineer with **3+ years of experience** building scalable web applications using **React**, **Express.js**, and **AWS**. I specialize in designing **SQL/NoSQL databases**, crafting **RESTful/GraphQL APIs**, and leading development teams to deliver high-performance solutions. My focus is on implementing best practices, optimizing performance, and automating processes to streamline development.
 
-- 🌟 **Currently working on**: [Smart Order](https://github.com/mohammadabusalh1/SmartOrder)  
-- 📚 **Learning**: Microservices architecture  
+- 🌟 Currently working on: A lot of projects: from my job (2), freelance work (1), and personal projects (2).
+- 📚 **Learning**: LLM 
 - 🤝 **Open to collaboration**: I am open to help anyone.
-- 💬 **Ask me about**: React, Express.js, Java, HTML, CSS, UX/UI  
+- 💬 **Ask me about**: React, Express.js, Java, HTML, CSS, UX/UI, Flutter.
 - 📧 **Reach me**: [abusalhm102@gmail.com](mailto:abusalhm102@gmail.com)  
 - 🔗 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/abusalh/)
 
