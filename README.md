@@ -104,7 +104,7 @@ I'm a software engineer from Hebron, Palestine, building full-stack web applicat
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadabusalh1&theme=onedark&no-frame=true" alt="GitHub Trophies" style="max-width: 100%; border-radius: 10px;" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohammadabusalh1&theme=transparent" alt="GitHub Overall Stats" style="max-width: 100%; border-radius: 10px;" />
 </div>
 
 ---
