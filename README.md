@@ -2,7 +2,7 @@
 **Software Engineer | Full-Stack Web (Next.js · Express.js · GraphQL) | Cross-Platform Mobile (Flutter)**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadabusalh1&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadabusalh1&theme=transparent" alt="GitHub Stats" style="max-width: 100%; border-radius: 10px;" />
 </div>
 
 ---
@@ -99,7 +99,7 @@ I'm a software engineer from Hebron, Palestine, building full-stack web applicat
 
 ## 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadabusalh1&show_icons=true&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" style="max-width: 45%; border-radius: 10px; margin: 10px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohammadabusalh1&theme=transparent" alt="Top Languages" style="max-width: 45%; border-radius: 10px; margin: 10px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadabusalh1&theme=transparent&hide_border=true" alt="Streak Stats" style="max-width: 45%; border-radius: 10px; margin: 10px;" />
 </div>
 
