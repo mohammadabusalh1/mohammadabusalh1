@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I'm a software engineer from Hebron, Palestine, building full-stack web applications (**Next.js**, **Express.js**, **GraphQL**) and cross-platform mobile apps (**Flutter**), deployed with **Docker** and **Kubernetes** on **AWS**. I delivered a production assessment platform end-to-end as sole developer in five months, raised a legacy site's PageSpeed from 25 → 72 (mobile) and 35 → 95 (desktop), and co-authored an **IEEE-published research paper** presented in London. I develop in an AI-augmented workflow using **Claude Code**, **Cursor**, and self-built coding agents.
+I'm a software engineer building full-stack web applications (**Next.js**, **Express.js**, **GraphQL**) and cross-platform mobile apps (**Flutter**), deployed with **Docker** and **Kubernetes** on **AWS**. I delivered a production assessment platform end-to-end as sole developer in five months, raised a legacy site's PageSpeed from 25 → 72 (mobile) and 35 → 95 (desktop), and co-authored an **IEEE-published research paper** presented in London. I develop in an AI-augmented workflow using **Claude Code**, **Cursor**, and self-built coding agents.
 
 - 🌟 **Currently building**: [Aura 4](https://aura4app.com/) — a focus-first work-orchestration SaaS for small teams (founder, early access)
 - 📱 **Published apps**: on both [Google Play](https://play.google.com/store/apps/details?id=com.abusalh.ironfit&hl=en) and the [App Store](https://apps.apple.com/fr/app/clear-khutbah-ai-translator/id6756271069)
