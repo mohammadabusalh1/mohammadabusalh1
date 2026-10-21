@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-I'm a software engineer building full-stack web applications (**Next.js**, **Express.js**, **GraphQL**) and cross-platform mobile apps (**Flutter**), deployed with **Docker** and **Kubernetes** on **AWS**. I delivered a production assessment platform end-to-end as sole developer in five months, raised a legacy site's PageSpeed from 25 → 72 (mobile) and 35 → 95 (desktop), and co-authored an **IEEE-published research paper** presented in London. I develop in an AI-augmented workflow using **Claude Code**, **Cursor**, and self-built coding agents.
+I'm a software engineer building full-stack web applications (**Next.js**, **Express.js**, **GraphQL**) and cross-platform mobile apps (**Flutter**), deployed with **Docker** and **Kubernetes** on **AWS**. I delivered a production assessment platform end-to-end as sole developer in five months, raised a legacy site's PageSpeed from 25 → 80+ (mobile) and 35 → 95 (desktop), and co-authored an **IEEE-published research paper** presented in London. I develop in an AI-augmented workflow using **Claude Code**, **Cursor**, and self-built coding agents.
 
 - 🌟 **Currently building**: [Aura 4](https://aura4app.com/) — a focus-first work-orchestration SaaS for small teams (founder, early access)
 - 📱 **Published apps**: on both [Google Play](https://play.google.com/store/apps/details?id=com.abusalh.ironfit&hl=en) and the [App Store](https://apps.apple.com/fr/app/clear-khutbah-ai-translator/id6756271069)
@@ -26,7 +26,7 @@ I'm a software engineer building full-stack web applications (**Next.js**, **Exp
 |---|---|---|
 | **Aura 4** 🧭 | Work-orchestration SaaS — multi-tenant NestJS + Postgres RLS, Centrifugo realtime, local-first offline client (founder, solo) | [Live](https://aura4app.com/) |
 | **Inside Brain** 🧠 | Cognitive assessment platform: six validated tests, Stripe/PayPal, institutional licensing — built end-to-end solo | [Live](https://insidebrain.org) |
-| **Stanford-Binet** ⚡ | Legacy production site rescued: PageSpeed 25 → 72 mobile / 35 → 95 desktop, Dockerized deployment | [Live](https://www.stanford-binet.org/) |
+| **Stanford-Binet** ⚡ | Legacy production site rescued: PageSpeed 25 → 80+ mobile / 35 → 95 desktop, Dockerized deployment | [Live](https://www.stanford-binet.org/) |
 | **Motrgem** 🌍 | Open-source Flutter localization CLI (Dart AST → .arb generation) | [pub.dev](https://pub.dev/packages/motrgem) |
 | **Clear Khutbah** 🕌 | Real-time speech-to-text + AI translation of live sermons, privacy-first Flutter app | [Google Play](https://play.google.com/store/apps/details?id=com.clearkhutbahtranslator.app&hl=en) · [App Store](https://apps.apple.com/fr/app/clear-khutbah-ai-translator/id6756271069) |
 | **IronFit** 💪 | Gym management app — Flutter + Firebase | [Google Play](https://play.google.com/store/apps/details?id=com.abusalh.ironfit&hl=en) · [App Store](https://apps.apple.com/us/app/ironfit-%D8%AD%D9%84-%D8%B0%D9%83%D9%8A-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D9%85/id6745465917) |
